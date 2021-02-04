@@ -135,7 +135,6 @@ let baseDeDato = [
 ]
 
 
-alert('Hola jony, no está terminado pero bueno. No queria no mandar nada. Un abrazo')
 let page1 = document.getElementById('page1');
 let page2 = document.getElementById('page2');
 let loading = document.getElementById('loading')
